@@ -5,6 +5,7 @@ export default function home(){
     <Link href={"http://localhost:3000/"} > Home </Link>
     <Link href={"http://localhost:3000/about"} > About</Link>
     <Link href={"http://localhost:3000/contact"} > Contact </Link>
+    <Link href={"http://localhost:3000/service"} > Service</Link>
     <Link href={"http://localhost:3000/service/webdevelopment"} > Web Development</Link>   
     <Link href={"http://localhost:3000/service/appdevelopment"} > App Development</Link>
     
