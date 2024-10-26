@@ -99,6 +99,7 @@ a.secondary {
 }
 
 .footer a {
+  color: orange;
   display: flex;
   align-items: center;
   gap: 8px;
