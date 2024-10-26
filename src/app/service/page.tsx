@@ -1,3 +1,13 @@
-export default function service(){
-    return <p>I am an commerce student exploring different paths i can help in maintaining your accounting records in addition i can help in learning of html and css </p>
-}
+import Link from "next/link"
+
+function Service(){
+    return(
+      <div> 
+        <h1 className="service"><Link href="/service/appdevelopment"> App Development </Link></h1>
+        <h1 className="service2"><Link href="/service/webdevelopment"> Web Development</Link></h1>
+  
+      
+      </div>
+    )
+  }
+   export default Service
